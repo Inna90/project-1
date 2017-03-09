@@ -1,0 +1,25 @@
+﻿
+/* Код для подключения шрифта в /css/stylename.css */
+/* font-family: "MyriadProRegular"; */
+@font-face {
+	font-family: "MyriadProRegular";
+	src: url("../fonts/MyriadPro/MyriadProRegular/MyriadProRegular.eot");
+	src: url("../fonts/MyriadPro/MyriadProRegular/MyriadProRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/MyriadPro/MyriadProRegular/MyriadProRegular.woff") format("woff"),
+	url("../fonts/MyriadPro/MyriadProRegular/MyriadProRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+/* font-family: "MyriadProItalic"; */
+@font-face {
+	font-family: "MyriadProItalic";
+	src: url("../fonts/MyriadPro/MyriadProItalic/MyriadProItalic.eot");
+	src: url("../fonts/MyriadPro/MyriadProItalic/MyriadProItalic.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/MyriadPro/MyriadProItalic/MyriadProItalic.woff") format("woff"),
+	url("../fonts/MyriadPro/MyriadProItalic/MyriadProItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+

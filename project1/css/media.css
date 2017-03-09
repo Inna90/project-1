@@ -1,0 +1,146 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.logo {
+		float: none;
+
+	}
+
+	.user-block {
+		text-align: center;
+		float: none;
+	}
+
+	.slider-blocks3 {
+		margin: 0 auto;
+
+	}
+	/* Раскладка  двухколоночных блоков для главной страницы */
+
+	.content-column-left {
+		margin-top: 10px;
+		float: left;
+		width: 450px;
+
+	}
+
+	.content-column-right {
+		margin-top: 30px;
+		width: 450px;
+
+
+	}
+
+	/* Стилизация двухколоночных блоков для главнойм страницы */
+
+	.content-column-left h4{
+		font-size: 28px;
+		line-height: 30px;
+		color: #fff;
+		margin-bottom: 22px;
+	}
+	.content-column-left p{
+		font-size: 18px;
+		line-height: 30px;
+		color: #fff;
+	}
+
+	.content-column-right h5 {
+		font-size: 18px;
+		line-height: 24px;
+		color: #fff;
+		margin-bottom: 10px;
+	}
+	.content-column-right p {
+		font-size: 12px;
+		line-height: 18px;
+		margin-bottom: 5px;
+	}
+
+	.inp {
+		margin-bottom: 0px;
+	}
+	#messege input[type="text"] {
+		font-size: 16px;
+		line-height: 24px;
+		margin-bottom: 10px;
+
+
+	}
+
+
+	.col2 {
+		padding-left: 0px;
+	}
+	.col3 {
+		padding-left: 0px;
+	}
+
+	.footer-slider h3 {
+		font-size: 26px;
+		line-height: 30px;
+		color: #8e959c;
+		padding-left: 43px;
+
+	}
+
+
+
+}
+
+
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
